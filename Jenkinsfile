@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Jenkins Pipeline is working!'
+                echo 'Jenkins Pipeline is working successfully!'
             }
         }
     }
